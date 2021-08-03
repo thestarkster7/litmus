@@ -32,7 +32,9 @@ p {
     line-height: 1.9em;
     letter-spacing: 1px;
 }
-
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
 ul {
     margin: 0;
     padding: 0;
@@ -1103,7 +1105,7 @@ img {vertical-align: middle;}
         
         .feature-31 .grid-column {
           grid-template-columns: 1fr 1fr 1fr;
-          grid-gap: 30px; }
+          grid-gap: 35px; }
         .feature-31 .three-grids-columns h4 {
           font-size: 20px;
           color: white;
@@ -1166,6 +1168,184 @@ img {vertical-align: middle;}
 
 
 /* footer */
+.feature-32 
+  .feature-32 span.number img {
+    vertical-align: -webkit-baseline-middle; }
+  .feature-32 .top-bottom {
+    background-color: white;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    padding: 100px 0 120px;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 0; }
+  .feature-32 .top-bottom:before {
+    content: "";
+    background: white;
+    position: absolute;
+    top: 0;
+    min-height: 100%;
+    left: 0;
+    right: 0;
+    z-index: -1; }
+  .feature-32 .middle-section {
+    display: grid; }
+  .feature-32 .three-grids-columns {
+    padding: 25px 25px;
+    transition: 0.3s ease-out;
+    border-radius: 4px;
+    /* border: 1px solid #828282; */
+    background: rgba(7, 10, 12, 0.72); }
+  
+  .feature-32 .grid-column {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px; }
+  .feature-32 .three-grids-columns h4 {
+    font-size: 20px;
+    color: var(--white-color);
+    line-height: 25px;
+    padding-top: 20px;
+    font-weight: 800; }
+  .feature-32 .three-grids-columns p {
+    padding-top: 15px;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--white-color); }
+  .feature-32 .three-grids-columns span.fa {
+    font-size: 48px;
+    color: var(--opposite-color); }
+  .feature-32 a.actionbg {
+    font-size: 16px;
+    color: var(--opposite-color);
+    margin-top: 25px;
+    display: inline-block;
+    font-weight: 700; }
+  .feature-32 a.actionbg:hover {
+    color: var(--white-color); }
+  .feature-32 img.arrow-png {
+    padding-left: 5px; }
+  @media (max-width: 1280px) {
+    .feature-32 .three-grids-columns h4 {
+      padding-top: 20px; }
+    .feature-32 .top-bottom {
+      padding: 40px 0px; } }
+  @media (max-width: 900px) {
+    .feature-32 a.actionbg {
+      margin-top: 20px; }
+    .feature-32 .three-grids-columns h4 {
+      padding-top: 13px; } }
+  @media (max-width: 768px) {
+    .feature-32 .grid-column {
+      grid-template-columns: 1fr;
+      grid-gap: 35px; }
+    .feature-32 .three-grids-columns h4 {
+      padding-top: 7px; }
+    .feature-32 a.actionbg {
+      margin-top: 12px; } }
+  @media (max-width: 768px) {
+    .feature-32 .three-grids-columns h4 {
+      font-size: 22px; } }
+  @media (max-width: 320px) {
+    .feature-32 .three-grids-columns h4 {
+      font-size: 20px;
+      line-height: 25px; } }
+.feature-32 
+        .feature-32 span.number img {
+          vertical-align: -webkit-baseline-middle; }
+        .feature-32 .top-bottom {
+          background-color: white;
+          background-size: cover;
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          -ms-background-size: cover;
+          padding: 100px 0 120px;
+          background-attachment: fixed;
+          position: relative;
+          z-index: 0; }
+        .feature-32 .top-bottom:before {
+          content: "";
+          background: white;
+          position: absolute;
+          top: 0;
+          min-height: 100%;
+          left: 0;
+          right: 0;
+          z-index: -1; }
+        .feature-32 .middle-section {
+          display: grid; }
+        .feature-32 .three-grids-columns {
+          padding: 25px 25px;
+          transition: 0.3s ease-out;
+          border-radius: 4px;
+          /* border: 1px solid #828282; */
+          background: white; }
+        
+        .feature-32 .grid-column {
+          grid-template-columns: 1fr 1fr 1fr;
+          grid-gap: 35px; }
+        .feature-32 .three-grids-columns h4 {
+          font-size: 20px;
+          color: black;
+          line-height: 25px;
+          padding-top: 20px;
+          font-weight: 800; }
+        .feature-32 .three-grids-columns p {
+          padding-top: 15px;
+          font-size: 16px;
+          line-height: 24px;
+          color: black; }
+          .feature-32 .three-grids-columns a {
+            padding-top: 15px;
+            font-size: 16px;
+            line-height: 24px;
+            color: black; }
+            .feature-32 .three-grids-columns a:hover {
+              padding-top: 15px;
+              font-size: 16px;
+              line-height: 24px;
+              color: crimson }
+        .feature-32 .three-grids-columns span.fa {
+          font-size: 48px;
+          color: var(--opposite-color); }
+        .feature-32 a.actionbg {
+          font-size: 16px;
+          color: var(--opposite-color);
+          margin-top: 25px;
+          display: inline-block;
+          font-weight: 700; }
+        .feature-32 a.actionbg:hover {
+          color: var(--white-color); }
+        .feature-32 img.arrow-png {
+          padding-left: 5px; }
+        @media (max-width: 1280px) {
+          .feature-32 .three-grids-columns h4 {
+            padding-top: 20px; }
+          .feature-32 .top-bottom {
+            padding: 40px 0px; } }
+        @media (max-width: 900px) {
+          .feature-32 a.actionbg {
+            margin-top: 20px; }
+          .feature-32 .three-grids-columns h4 {
+            padding-top: 13px; } }
+        @media (max-width: 768px) {
+          .feature-32 .grid-column {
+            grid-template-columns: 1fr;
+            grid-gap: 35px; }
+          .feature-32 .three-grids-columns h4 {
+            padding-top: 7px; }
+          .feature-32 a.actionbg {
+            margin-top: 12px; } }
+        @media (max-width: 768px) {
+          .feature-32 .three-grids-columns h4 {
+            font-size: 22px; } }
+        @media (max-width: 320px) {
+          .feature-32 .three-grids-columns h4 {
+            font-size: 20px;
+            line-height: 25px; } }
 
 .contact_grid_left h6 {
     font-size: 1em;
