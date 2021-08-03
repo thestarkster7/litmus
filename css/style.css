@@ -269,7 +269,7 @@ ul.apps-lists li a span {
     min-height: 250px;
 }
 
-/*-- banner --*/
+
 
 .main-banner {
     background: url(../images/12-muj-tampi1.jpg) center no-repeat;
@@ -303,6 +303,7 @@ ul.apps-lists li a span {
     opacity: 1;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
     text-transform: uppercase;
+    font-family: Comic Sans MS, Comic Sans;
 }
 
 .baner-info-avweb h6 {
@@ -1162,117 +1163,6 @@ img {vertical-align: middle;}
           .feature-31 .three-grids-columns h4 {
             font-size: 20px;
             line-height: 25px; } }
-/*--//counter--*/
-
-.tab-main {
-    padding: 40px;
-    border: none;
-    background: transparent;
-    box-shadow: none;
-    width: 50%;
-}
-
-.tab-main section {
-    display: none;
-    padding: 4em 0 2em 0;
-    border-top: 1px solid #abc;
-}
-
-.tab-main input {
-    display: none;
-}
-
-.tab-main label {
-    display: inline-block;
-    margin: 0 0 -1px;
-    padding: 15px 25px;
-    font-weight: 600;
-    text-align: center;
-    color: #1e272e;
-    border: 1px solid transparent;
-}
-
-.tab-main span {
-    margin-right: 0.5em;
-}
-
-.tab-main label:before {
-    font-family: fontawesome;
-    font-weight: normal;
-    margin-right: 10px;
-    opacity: 0;
-}
-
-.tab-main label[for*='1']:before {
-    content: '\f1cb';
-}
-
-.tab-main label[for*='2']:before {
-    content: '\f17d';
-}
-
-.tab-main label[for*='3']:before {
-    content: '\f16c';
-}
-
-.tab-main label[for*='4']:before {
-    content: '\f171';
-}
-
-.tab-main label:hover {
-    color: #789;
-    cursor: pointer;
-}
-
-.tab-main input:checked + label {
-    color: crimson;
-    border: 1px solid #abc;
-    border-top: 2px solid black;
-    border-bottom: 1px solid #fff;
-}
-
-.tab-main #tab1:checked ~ #content1,
-.tab-main #tab2:checked ~ #content2,
-.tab-main #tab3:checked ~ #content3,
-.tab-main #tab4:checked ~ #content4 {
-    display: block;
-}
-
-@media gallery and (max-width: 800px) {
-    .tab-main label:before {
-        margin: 0;
-        font-size: 18px;
-    }
-}
-
-@media gallery and (max-width: 500px) {
-    .tab-main label {
-        padding: 15px;
-    }
-}
-
-/*--stats--*/
-
-
-
-
-
-/*-- to-top --*/
-
-a.move-top span {
-    color: #fff;
-    width: 34px;
-    height: 34px;
-    border: transparent;
-    line-height: 1.9em;
-    background: #d63031;
-    border-radius: 4px;
-    -webkit-border-radius: 4px;
-    -o-border-radius: 4px;
-    -moz-border-radius: 4px;
-}
-
-/*-- //to-top --*/
 
 
 /* footer */
