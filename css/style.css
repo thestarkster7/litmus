@@ -1,6 +1,6 @@
 html {
     margin: 0;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway';
     background: #fff;
     scroll-behavior: smooth;
 }
@@ -22,7 +22,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway';
 }
 
 p {
@@ -118,7 +118,7 @@ h1.logo a {
     font-weight: 500;
     text-transform: uppercase;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
 }
 
 ul#menu {
@@ -282,7 +282,7 @@ ul.apps-lists li a span {
     min-height: 50em;
 }
 .font{
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     
 }
 .layer {
