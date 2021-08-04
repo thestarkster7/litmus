@@ -399,9 +399,10 @@ ul.apps-lists li a span {
 }
 
 .baner-info-avweb {
-    padding: 17em 0 0;
+    padding: 19em 0 0;
     margin: 0 auto;
 }
+
 
 .baner-info-avweb h3 {
     color: #ffff;
@@ -2056,7 +2057,7 @@ a.move-top span {
         font-size: 1em;
     }
     .baner-info-avweb {
-        padding: 5em 0 0 0;
+        padding: 8em 0 0 0;
         margin: 0 auto;
     }
 }
@@ -2079,3 +2080,540 @@ a.move-top span {
 }
 
 /*--//responsive--*/
+/*--//lol--*/
+@media(max-width:1440px) {
+  .baner-info-avweb2 h6 {
+      font-size: 1.2em;
+  }
+}
+
+@media(max-width:1366px) {
+  .main-banner2 {
+      min-height: 45em;
+  }
+  .baner-info-avweb2 {
+    padding: 15em 0 0;
+    margin: 0 auto;
+}
+}
+
+@media(max-width:1280px) {
+  .main-banner2
+   {
+      min-height: 40em;
+  }
+}
+
+@media(max-width:1080px) {
+  .main-banner2
+  {
+      min-height: 38em;
+  }
+
+  .baner-info-avweb2 h3 {
+    font-size: 3.5em;
+}
+.baner-info-avweb2 {
+    padding: 11em 0 0;
+    margin: 0 auto;
+}
+
+
+@media(max-width:800px) {
+  .baner-info-avweb2 h6 {
+    font-size: 1em;
+    letter-spacing: 7px;
+}
+.main-banner2{
+    min-height: 35em;
+}
+.baner-info-avweb2 h3 {
+    font-size: 3em;
+}
+.baner-info-avweb2 {
+    padding: 10em 0 0;
+    margin: 0 auto;
+}
+}
+
+
+
+@media(max-width:736px) {
+  
+  .baner-info-avweb2 h3 {
+    font-size: 2.6em;
+}
+.main-banner2
+ {
+    min-height: 31em;
+}
+.baner-info-avweb2 {
+    padding: 10em 0 0;
+    margin: 0 auto;
+}
+}
+
+@media(max-width:640px) {
+
+  .main-banner2
+   {
+      min-height: 27em;
+  }
+  .baner-info-avweb2 {
+      padding: 10em 0 0;
+      margin: 0 auto;
+  }
+}
+
+@media(max-width:600px) {
+  .main-banner2
+  {
+      min-height: 27em;
+  }
+  .baner-info-avweb2 h3 {
+      font-size: 2.4em;
+  }
+  .baner-info-avweb2 {
+      padding: 10em 0 0;
+      margin: 0 auto;
+  }
+}
+
+@media(max-width:568px) {
+  .baner-info-avweb2 h3 {
+      font-size: 2em;
+  }
+}
+
+@media(max-width:480px) {
+
+  .baner-info-avweb2 h6 {
+      font-size: 0.9em;
+      letter-spacing: 4px;
+  }
+}
+
+@media(max-width:440px) {
+
+  .baner-info-avweb2 {
+      padding: 5em 0 0;
+      margin: 0 auto;
+  }
+ 
+}
+
+@media(max-width:414px) {
+
+  .baner-info-avweb2 h6 {
+      font-size: 0.85em;
+      letter-spacing: 2px;
+  }
+  .baner-info-avweb2 {
+      padding: 5em 0 0;
+      margin: 0 auto;
+  }
+  .main-banner2
+   {
+      min-height: 21em;
+  }
+  .baner-info-avweb2 h3 {
+      font-size: 1.8em;
+  }
+ 
+  .baner-info-avweb2 {
+      padding: 5em 0 0 0;
+      margin: 0 auto;
+  }
+}
+
+@media(max-width:384px) {
+  .baner-info-avweb2 h6 {
+      font-size: 0.85em;
+      letter-spacing: 2px;
+  }
+}
+
+
+}
+
+
+.baner-info-avweb2 {
+  padding: 17em 0 0;
+  margin: 0 auto;
+}
+
+.baner-info-avweb2 h3 {
+  color: #ffff;
+  font-size: 3.5em;
+  font-weight: 500;
+  letter-spacing: 1px;
+  opacity: 1;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
+  text-transform: uppercase;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+.baner-info-avweb2 h6 {
+  font-size: 1.3em;
+  color: #fff;
+  letter-spacing: 8px;
+  font-weight: 300;
+}
+/*--//lolzzzz--*/
+@media(max-width:1440px) {
+  .baner-info-avweb3 h6 {
+      font-size: 1.2em;
+  }
+}
+
+@media(max-width:1366px) {
+  .main-banner3 {
+      min-height: 45em;
+  }
+  .baner-info-avweb3 {
+    padding: 15em 0 0;
+    margin: 0 auto;
+}
+}
+
+@media(max-width:1280px) {
+  .main-banner3
+   {
+      min-height: 40em;
+  }
+}
+
+@media(max-width:1080px) {
+  .main-banner3
+  {
+      min-height: 38em;
+  }
+
+  .baner-info-avweb3 h3 {
+    font-size: 3.5em;
+}
+.baner-info-avweb3 {
+    padding: 11em 0 0;
+    margin: 0 auto;
+}
+
+
+@media(max-width:800px) {
+  .baner-info-avweb3 h6 {
+    font-size: 1em;
+    letter-spacing: 7px;
+}
+.main-banner3{
+    min-height: 35em;
+}
+.baner-info-avweb3 h3 {
+    font-size: 3em;
+}
+.baner-info-avweb3 {
+    padding: 10em 0 0;
+    margin: 0 auto;
+}
+}
+
+
+
+@media(max-width:736px) {
+  
+  .baner-info-avweb3 h3 {
+    font-size: 2.6em;
+}
+.main-banner3
+ {
+    min-height: 31em;
+}
+.baner-info-avweb3 {
+    padding: 10em 0 0;
+    margin: 0 auto;
+}
+}
+
+@media(max-width:640px) {
+
+  .main-banner3
+   {
+      min-height: 27em;
+  }
+  .baner-info-avweb3 {
+      padding: 10em 0 0;
+      margin: 0 auto;
+  }
+}
+
+@media(max-width:600px) {
+  .main-banner3
+  {
+      min-height: 27em;
+  }
+  .baner-info-avweb3 h3 {
+      font-size: 2.4em;
+  }
+  .baner-info-avweb3 {
+      padding: 10em 0 0;
+      margin: 0 auto;
+  }
+}
+
+@media(max-width:568px) {
+  .baner-info-avweb3 h3 {
+      font-size: 2em;
+  }
+}
+
+@media(max-width:480px) {
+
+  .baner-info-avweb3 h6 {
+      font-size: 0.9em;
+      letter-spacing: 4px;
+  }
+}
+
+@media(max-width:440px) {
+
+  .baner-info-avweb3 {
+      padding: 5em 0 0;
+      margin: 0 auto;
+  }
+ 
+}
+
+@media(max-width:414px) {
+
+  .baner-info-avweb3 h6 {
+      font-size: 0.85em;
+      letter-spacing: 2px;
+  }
+  .baner-info-avweb3 {
+      padding: 5em 0 0;
+      margin: 0 auto;
+  }
+  .main-banner3
+   {
+      min-height: 21em;
+  }
+  .baner-info-avweb3 h3 {
+      font-size: 1.8em;
+  }
+ 
+  .baner-info-avweb3 {
+      padding: 5em 0 0 0;
+      margin: 0 auto;
+  }
+}
+
+@media(max-width:384px) {
+  .baner-info-avweb3 h6 {
+      font-size: 0.85em;
+      letter-spacing: 2px;
+  }
+}
+
+
+}
+
+
+.baner-info-avweb3 {
+  padding: 17em 0 0;
+  margin: 0 auto;
+}
+
+.baner-info-avweb3 h3 {
+  color: #ffff;
+  font-size: 3.5em;
+  font-weight: 500;
+  letter-spacing: 1px;
+  opacity: 1;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
+  text-transform: uppercase;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+.baner-info-avweb3 h6 {
+  font-size: 1.3em;
+  color: #fff;
+  letter-spacing: 8px;
+  font-weight: 300;
+}
+
+/*--//lolzzzzzzzzzzzzzzzzzzzzzzzz--*/
+@media(max-width:1440px) {
+  .baner-info-avweb1 h6 {
+      font-size: 1.2em;
+  }
+}
+
+@media(max-width:1366px) {
+  .main-banner1 {
+      min-height: 45em;
+  }
+  .baner-info-avweb1 {
+    padding: 15em 0 0;
+    margin: 0 auto;
+}
+}
+
+@media(max-width:1280px) {
+  .main-banner1
+   {
+      min-height: 40em;
+  }
+}
+
+@media(max-width:1080px) {
+  .main-banner1
+  {
+      min-height: 38em;
+  }
+
+  .baner-info-avweb1 h3 {
+    font-size: 3.5em;
+}
+.baner-info-avweb1 {
+    padding: 11em 0 0;
+    margin: 0 auto;
+}
+
+
+@media(max-width:800px) {
+  .baner-info-avweb1 h6 {
+    font-size: 1em;
+    letter-spacing: 7px;
+}
+.main-banner1{
+    min-height: 35em;
+}
+.baner-info-avweb1 h3 {
+    font-size: 3em;
+}
+.baner-info-avweb1 {
+    padding: 10em 0 0;
+    margin: 0 auto;
+}
+}
+
+
+
+@media(max-width:736px) {
+  
+  .baner-info-avweb1 h3 {
+    font-size: 2.6em;
+}
+.main-banner1
+ {
+    min-height: 31em;
+}
+.baner-info-avweb1 {
+    padding: 10em 0 0;
+    margin: 0 auto;
+}
+}
+
+@media(max-width:640px) {
+
+  .main-banner1
+   {
+      min-height: 27em;
+  }
+  .baner-info-avweb1 {
+      padding: 10em 0 0;
+      margin: 0 auto;
+  }
+}
+
+@media(max-width:600px) {
+  .main-banner1
+  {
+      min-height: 27em;
+  }
+  .baner-info-avweb1 h3 {
+      font-size: 2.4em;
+  }
+  .baner-info-avweb1 {
+      padding: 10em 0 0;
+      margin: 0 auto;
+  }
+}
+
+@media(max-width:568px) {
+  .baner-info-avweb1 h3 {
+      font-size: 2em;
+  }
+}
+
+@media(max-width:480px) {
+
+  .baner-info-avweb1 h6 {
+      font-size: 0.9em;
+      letter-spacing: 4px;
+  }
+}
+
+@media(max-width:440px) {
+
+  .baner-info-avweb1 {
+      padding: 5em 0 0;
+      margin: 0 auto;
+  }
+ 
+}
+
+@media(max-width:414px) {
+
+  .baner-info-avweb1 h6 {
+      font-size: 0.85em;
+      letter-spacing: 2px;
+  }
+  .baner-info-avweb1 {
+      padding: 5em 0 0;
+      margin: 0 auto;
+  }
+  .main-banner1
+   {
+      min-height: 21em;
+  }
+  .baner-info-avweb1 h3 {
+      font-size: 1.8em;
+  }
+ 
+  .baner-info-avweb1 {
+      padding: 5em 0 0 0;
+      margin: 0 auto;
+  }
+}
+
+@media(max-width:384px) {
+  .baner-info-avweb1 h6 {
+      font-size: 0.85em;
+      letter-spacing: 2px;
+  }
+}
+
+
+
+.baner-info-avweb1 {
+  padding: 17em 0 0;
+  margin: 0 auto;
+}
+
+.baner-info-avweb1 h3 {
+  color: #ffff;
+  font-size: 3.5em;
+  font-weight: 500;
+  letter-spacing: 1px;
+  opacity: 1;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
+  text-transform: uppercase;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+.baner-info-avweb1 h6 {
+  font-size: 1.3em;
+  color: #fff;
+  letter-spacing: 8px;
+  font-weight: 300;
+}
+}
