@@ -131,7 +131,7 @@ ul#menu {
     margin: 0;
     /* padding: 0 1em; */
     background: #151e253d;
-    color: #ffffff;
+    color: #000000;
     z-index: 99;
     right: 2%;
 }
